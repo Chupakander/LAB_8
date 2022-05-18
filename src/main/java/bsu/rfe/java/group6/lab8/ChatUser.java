@@ -1,6 +1,5 @@
 package bsu.rfe.java.group6.lab8;
 
-
 public class ChatUser {
     // Имя пользователя
     private String name;

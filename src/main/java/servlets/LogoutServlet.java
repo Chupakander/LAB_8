@@ -1,6 +1,5 @@
 package servlets;
 
-import bsu.rfe.java.group6.lab8.ChatMessage;
 import bsu.rfe.java.group6.lab8.ChatUser;
 
 import javax.servlet.ServletException;
